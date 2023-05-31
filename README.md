@@ -1,4 +1,4 @@
-😄 I'm glad to see you :)
+*give info about DA projects*
 
 <!--
 **ssakrp/ssakrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
