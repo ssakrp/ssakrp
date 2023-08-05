@@ -1,4 +1,5 @@
-*give info about DA projects*
+# Ссылка на моё резюме: https://github.com/ssakrp/ssakrp/blob/main/my_CV.pdf
+## Рекомендуется скачать PDF файл с резюме, чтобы наименования проектов были кликабельные
 
 <!--
 **ssakrp/ssakrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
