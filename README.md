@@ -1,5 +1,7 @@
-# Ссылка на моё резюме: https://github.com/ssakrp/ssakrp/blob/main/my_CV.pdf
-## Рекомендуется скачать PDF файл с резюме, чтобы наименования проектов были кликабельные
+# Ссылки на моё резюме:
+Сжатая версия (1 страница):
+https://github.com/ssakrp/ssakrp/blob/main/my_CV.pdf
+Полная версия (5 страниц):
 
 <!--
 **ssakrp/ssakrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
