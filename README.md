@@ -2,6 +2,7 @@
 Сжатая версия (1 страница):
 <br>
 https://github.com/ssakrp/ssakrp/blob/main/my_CV.pdf
+<br>
 Полная версия (5 страниц):
 <br>
 https://github.com/ssakrp/ssakrp/blob/main/my_CV_full_version.pdf
